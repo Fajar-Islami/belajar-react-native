@@ -1,6 +1,5 @@
 import React, {Component} from 'react';
 import {Image, Text, TextInput, View} from 'react-native';
-import laptop from './laptop.jpeg';
 
 const SampleComponent = () => {
   return (

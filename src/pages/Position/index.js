@@ -1,8 +1,8 @@
 import React from 'react';
 import {Image, StyleSheet, Text, View} from 'react-native';
-import cart from './cart.png';
+import cart from '../../assets/icon/cart.png';
 
-export default function PositionReactNative() {
+export default function Position() {
   return (
     <View style={styles.wrapper}>
       <Text>Materi Position</Text>
