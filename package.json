@@ -8,11 +8,13 @@
     "start": "react-native start",
     "test": "jest",
     "lint": "eslint",
-    "emulator":"~/Android/Sdk/emulator/emulator -avd Pixel_3a_API_30_x86"
+    "emulator": "~/Android/Sdk/emulator/emulator -avd Pixel_3a_API_30_x86"
   },
   "dependencies": {
     "react": "16.13.1",
-    "react-native": "0.63.4"
+    "react-native": "0.63.4",
+    "react-native-svg": "^12.1.0",
+    "react-native-svg-transformer": "^0.14.3"
   },
   "devDependencies": {
     "@babel/core": "^7.8.4",
